@@ -5,7 +5,6 @@ containing the following known CVEs:
 
 * CVE-2021-45046
 * CVE-2021-44228
-* CVE-2021-4104
 * CVE-2021-45105
 * CVE-2021-44832
 
@@ -18,6 +17,8 @@ The supported packages managers are:
 * bundler
 
 In addition, the tool will search for vulnerable files with the `.jar`,`.gem` extensions.
+
+**Note: CVE-2021-4104 has been ommited from this version**
 
 ### Prerequisites:
 
